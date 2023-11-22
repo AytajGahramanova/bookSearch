@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Card, Modal } from "antd";
 import Meta from "antd/es/card/Meta";
+import './../App.css';
 
 const UserCard = ({ item }) => {
   const [open, setOpen] = useState(false);

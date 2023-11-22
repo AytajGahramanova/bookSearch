@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.css-dev-only-do-not-override-nllxry.ant-btn-primary {
+  display: none;
+}
